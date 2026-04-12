@@ -7,5 +7,8 @@ numbers.extend(b)
 numbers.sort()
 
 numbers.pop(2)
-numbers.remove(10)
+numbers.remove(100)
+
+#print(numbers.count(10)) # выводит сколько раз у нас "10" в листе
+print(len(numbers))  #выводит количество  переменных в листах
 print(numbers)
