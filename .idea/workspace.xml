@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af2f9695-98ab-45f0-be3f-540fda8acfb5" name="Changes" comment="Множества.py">
-      <change afterPath="$PROJECT_DIR$/function2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/функции.py" afterDir="false" />
+    <list default="true" id="af2f9695-98ab-45f0-be3f-540fda8acfb5" name="Changes" comment="fuctions">
+      <change afterPath="$PROJECT_DIR$/work in files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/исключения.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,10 +55,12 @@
     "Python.reboot circle.executor": "Run",
     "Python.t49.47.executor": "Run",
     "Python.time 36 m 24 sec.executor": "Run",
+    "Python.work in files.executor": "Run",
     "Python.Множества.executor": "Run",
     "Python.Списки данныз.executor": "Run",
     "Python.Списки данных 3.executor": "Run",
     "Python.Списки данных2.executor": "Run",
+    "Python.исключения.executor": "Run",
     "Python.кортежи.executor": "Run",
     "Python.словари.executor": "Run",
     "Python.списки данных4.executor": "Run",
@@ -72,9 +73,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/endima/PycharmProjects/PythonProject4"
+    "last_opened_file_path": "C:/Users/endima/PycharmProjects/PythonProject4",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -85,7 +89,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-07523f343e4f-968fe969f28a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.28539.27" />
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
       </set>
     </attachedChunks>
   </component>
@@ -201,8 +205,19 @@
       <option name="project" value="LOCAL" />
       <updated>1776528853788</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="fuctions">
+      <option name="closed" value="true" />
+      <created>1776536815958</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1776536815958</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&amp;" />
@@ -212,7 +227,8 @@
     <MESSAGE value="options" />
     <MESSAGE value="словари" />
     <MESSAGE value="Множества.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Множества.py" />
+    <MESSAGE value="fuctions" />
+    <option name="LAST_COMMIT_MESSAGE" value="fuctions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -226,6 +242,16 @@
           <url>file://$PROJECT_DIR$/function2.py</url>
           <line>25</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/work in files.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/исключения.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
