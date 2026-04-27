@@ -23,3 +23,7 @@
 from mymodule import add_three_numbers as add
 
 print(add(5,6,1))
+
+import cowsay as c
+c.cow("Hello")
+
