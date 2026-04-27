@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af2f9695-98ab-45f0-be3f-540fda8acfb5" name="Changes" comment="fuctions">
-      <change afterPath="$PROJECT_DIR$/files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/with as.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/обработка исключений (мини тестик).py" afterDir="false" />
+    <list default="true" id="af2f9695-98ab-45f0-be3f-540fda8acfb5" name="Changes" comment="with as and more">
+      <change afterPath="$PROJECT_DIR$/mymodule.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work in files.py" beforeDir="false" afterPath="$PROJECT_DIR$/work in files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,51 +47,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.1.17.35.executor": "Run",
-    "Python.56.42.executor": "Run",
-    "Python.files.executor": "Run",
-    "Python.function2.executor": "Run",
-    "Python.function3.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.reboot circle.executor": "Run",
-    "Python.t49.47.executor": "Run",
-    "Python.time 36 m 24 sec.executor": "Run",
-    "Python.with as.executor": "Run",
-    "Python.work in files.executor": "Run",
-    "Python.Множества.executor": "Run",
-    "Python.Списки данныз.executor": "Run",
-    "Python.Списки данных 3.executor": "Run",
-    "Python.Списки данных2.executor": "Run",
-    "Python.исключения.executor": "Run",
-    "Python.кортежи.executor": "Run",
-    "Python.обработка исключений (мини тестик).executor": "Run",
-    "Python.словари.executor": "Run",
-    "Python.списки данных4.executor": "Run",
-    "Python.строки.executor": "Run",
-    "Python.функции.executor": "Run",
-    "Python.циклы и операторы 2.executor": "Run",
-    "Python.циклы и операторы 3.executor": "Run",
-    "Python.циклы и операторы 4.executor": "Run",
-    "Python.циклы и операторы.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/endima/PycharmProjects/PythonProject4",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1.17.35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.56.42.executor&quot;: &quot;Run&quot;,
+    &quot;Python.files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reboot circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t49.47.executor&quot;: &quot;Run&quot;,
+    &quot;Python.time 36 m 24 sec.executor&quot;: &quot;Run&quot;,
+    &quot;Python.with as.executor&quot;: &quot;Run&quot;,
+    &quot;Python.work in files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Множества.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Списки данныз.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Списки данных 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Списки данных2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.исключения.executor&quot;: &quot;Run&quot;,
+    &quot;Python.кортежи.executor&quot;: &quot;Run&quot;,
+    &quot;Python.обработка исключений (мини тестик).executor&quot;: &quot;Run&quot;,
+    &quot;Python.словари.executor&quot;: &quot;Run&quot;,
+    &quot;Python.списки данных4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.строки.executor&quot;: &quot;Run&quot;,
+    &quot;Python.функции.executor&quot;: &quot;Run&quot;,
+    &quot;Python.циклы и операторы 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.циклы и операторы 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.циклы и операторы 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.циклы и операторы.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/endima/PycharmProjects/PythonProject4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\endima\PycharmProjects\PythonProject4" />
@@ -243,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777283276665</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="with as and more">
+      <option name="closed" value="true" />
+      <created>1777318391618</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1777318391618</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +264,8 @@
     <MESSAGE value="словари" />
     <MESSAGE value="Множества.py" />
     <MESSAGE value="fuctions" />
-    <option name="LAST_COMMIT_MESSAGE" value="fuctions" />
+    <MESSAGE value="with as and more" />
+    <option name="LAST_COMMIT_MESSAGE" value="with as and more" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
