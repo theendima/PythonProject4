@@ -6,7 +6,7 @@
 #
 # file.close() # закрываем но можно реализовать как #with open('data/text.txt', 'w') as file:     #file.write("Hello")
 file = open('data/text.txt', 'r') # вводим переменную file и открываем файл для чтения
-#print(file.read(20)) # выводим  на экран в скобак указываем количествоесл
+#print(file.read(20)) # выводим  на экран в скобках указываем количество
 for line in file: # считываение по 1 строке
     print(line)
 file.close()

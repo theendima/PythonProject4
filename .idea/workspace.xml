@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af2f9695-98ab-45f0-be3f-540fda8acfb5" name="Changes" comment="fuctions">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with as.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/обработка исключений (мини тестик).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work in files.py" beforeDir="false" afterPath="$PROJECT_DIR$/work in files.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +39,9 @@
     &quot;accountId&quot;: &quot;1dfafbe1-2d1f-4726-9c91-ae8a54325db6&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -48,12 +55,14 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.1.17.35.executor": "Run",
     "Python.56.42.executor": "Run",
+    "Python.files.executor": "Run",
     "Python.function2.executor": "Run",
     "Python.function3.executor": "Run",
     "Python.main.executor": "Run",
     "Python.reboot circle.executor": "Run",
     "Python.t49.47.executor": "Run",
     "Python.time 36 m 24 sec.executor": "Run",
+    "Python.with as.executor": "Run",
     "Python.work in files.executor": "Run",
     "Python.Множества.executor": "Run",
     "Python.Списки данныз.executor": "Run",
@@ -61,6 +70,7 @@
     "Python.Списки данных2.executor": "Run",
     "Python.исключения.executor": "Run",
     "Python.кортежи.executor": "Run",
+    "Python.обработка исключений (мини тестик).executor": "Run",
     "Python.словари.executor": "Run",
     "Python.списки данных4.executor": "Run",
     "Python.строки.executor": "Run",
@@ -225,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776849086523</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="fuctions">
+      <option name="closed" value="true" />
+      <created>1777283276665</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1777283276665</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,11 +272,6 @@
           <url>file://$PROJECT_DIR$/function2.py</url>
           <line>25</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/work in files.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/исключения.py</url>
